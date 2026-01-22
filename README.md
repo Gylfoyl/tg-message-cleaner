@@ -20,7 +20,7 @@
 ### 1. Клонирование репозитория
 
 ```bash
-git clone https://github.com/yourusername/telegram-message-deleter.git
+git clone https://github.com/Gylfoyl/tg-message-cleaner.git
 cd telegram-message-deleter
 ```
 
